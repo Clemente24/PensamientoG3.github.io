@@ -1,0 +1,5 @@
+Para esta entrega de Pensamiento Visual se consultó una librería en espeífico para lograr el efecto de línea del tiempo
+Esta librería es Cody House:
+   https://codyhouse.co/
+El código del gráfico de burbujas está basado en la librería de amcharts
+https://live.amcharts.com/new/edit/
